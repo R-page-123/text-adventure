@@ -54,3 +54,4 @@ while True:
         print("these are the commands you can use:")
         for c in commands:
             print(c)
+#new change
